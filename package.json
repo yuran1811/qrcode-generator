@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/yuran1811/qrcode-generator",
   "name": "qrcode",
   "scripts": {
     "start": "vite",
