@@ -1,5 +1,5 @@
-import { Generator } from '@cpns/features/Generator';
-import MainLayout from '@cpns/layouts/MainLayout';
+import { Generator } from "@cpns/features/Generator";
+import MainLayout from "@cpns/layouts/MainLayout";
 
 const App = () => (
   <MainLayout>

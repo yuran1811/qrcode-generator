@@ -1,5 +1,7 @@
-import App from '@/App';
-import '@styles/index.css';
-import { createRoot } from 'react-dom/client';
+import { createRoot } from "react-dom/client";
 
-createRoot(document.getElementById('root')!).render(<App />);
+import App from "@/App";
+
+import "@styles/index.css";
+
+createRoot(document.getElementById("root")!).render(<App />);

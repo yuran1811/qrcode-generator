@@ -1,12 +1,12 @@
-import { FC } from 'react';
+import { FC } from "react";
 
 export const Header: FC = () => (
-  <header className="z-[100] sticky top-0 left-0 w-full bg-slate-800 border-b-[2px] border-slate-300 p-4 flex flex-wrap items-center justify-start">
+  <header className="flexcenter sticky top-0 left-0 z-50 border-b-2 border-slate-300 bg-slate-800 p-4">
     <a
       href="https://github.com/yuran1811/qrcode-generator"
       target="_blank"
       rel="noopener noreferrer"
-      className="font-bold text-center m-auto"
+      className="text-3xl font-bold"
     >
       QRCode Generator
     </a>

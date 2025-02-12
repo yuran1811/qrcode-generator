@@ -1,8 +1,8 @@
-import { FC } from 'react';
+import { FC } from "react";
 
 export const Footer: FC = () => (
-  <footer className="relative w-full text-center px-[1rem] pt-[0.7rem] pb-[2rem]">
-    Made by{' '}
+  <footer className="relative w-screen p-4 text-center">
+    Made by{" "}
     <a
       href="https://github.com/yuran1811"
       target="_blank"
